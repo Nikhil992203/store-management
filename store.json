@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "productName": "card",
+      "description": "black sport car",
+      "price": "20000000",
+      "quantity": "50",
+      "supplier": "lamborghini",
+      "inStock": true
+    },
+    {
+      "id": "2",
+      "productName": "brush",
+      "description": "smooth & reliable",
+      "price": "30",
+      "quantity": "1000",
+      "supplier": "aqua",
+      "inStock": true
+    }
+  ]
+}
